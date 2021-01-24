@@ -1,6 +1,6 @@
 # EUTECH DASHBOARD-README
 
-This README document will discuss how to import previously created kibana dashboard into new PC linux environment by installing ELK stack and manipulate servers.
+This README document will discuss how to import previously created kibana dashboard into new PC linux environment by installing ELK stack and manipulate servers.If you already installed ELK stack(Elasticsearch,Kibana,Logstash) then skip first 6 steps and follow from step 7.Contact me if you want any clarification.
 
 # Required software
 
@@ -9,7 +9,7 @@ Java(version according to your ELK stack version)
 ### 1.Clone the GIT repository
 Clone the GIT repository 
 ```sh
-git clone https://gitbd.hsenidmobile.com/hms/data-science/optin-anomaly
+https://github.com/rehanja/EUTECH-Dashboard
 ```
 
 ### 2.Download ELK stack Open source version 
@@ -108,7 +108,7 @@ The dashboard that previously created should appear there but will not run real 
 
 ### 9.Special notice
 
-
+Not important folder provide some irrelavent docs to dashboard process.
 
 
 
