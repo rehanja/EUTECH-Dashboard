@@ -1,6 +1,6 @@
 # EUTECH DASHBOARD-README
 
-This README document will discuss how to import previously created kibana dashboard into new PC linux environment by installing ELK stack and manipulate servers.If you already installed ELK stack(Elasticsearch,Kibana,Logstash) then skip first 6 steps and follow from step 7.Contact me if you want any clarification.
+This README document will discuss how to import previously created kibana dashboard into new PC linux environment by installing ELK stack and manipulate servers.If you already installed ELK stack (Elasticsearch,Kibana,Logstash) then skip first 3 steps and follow from step 4 .Contact me if you want any clarification.
 
 # Required software
 
