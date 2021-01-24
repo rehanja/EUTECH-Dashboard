@@ -101,7 +101,7 @@ Management->Saved Objects->Import->[exportDashboards.ndjson]->Import->Done
 ```
 Go to home page
 ```sh 
-Dashboard->EUTEST dashboard
+Dashboard->EUTECH dashboard
 ```
 The dashboard that previously created should appear there but will not run real time till API is connected via l logstash .conf file.
 
